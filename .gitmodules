@@ -1,0 +1,6 @@
+[submodule "djohn"]
+	path = djohn
+	url = https://github.com/casalinovalerio/djohn
+[submodule "dtexlive"]
+	path = dtexlive
+	url = https://github.com/casalinovalerio/dtexlive
