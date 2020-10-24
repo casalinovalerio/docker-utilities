@@ -4,3 +4,6 @@
 [submodule "dtexlive"]
 	path = dtexlive
 	url = https://github.com/casalinovalerio/dtexlive
+[submodule "dmetasploit"]
+	path = dmetasploit
+	url = https://github.com/casalinovalerio/dmetasploit
